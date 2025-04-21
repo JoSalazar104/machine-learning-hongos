@@ -39,7 +39,7 @@ Este proyecto utiliza técnicas de clasificación para predecir si un hongo es v
 - Identificación de variables más relevantes para la clasificación.
 - Modelos con alta precisión (idealmente >95%).
 
-## 👤 Autor
+## 👤 Escrito por:
 
 José Miguel Salazar Dávila  
 Especialización en Inteligencia Artificial – Universidad EIA  
